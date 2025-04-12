@@ -4,4 +4,4 @@ numpy
 matplotlib
 yfinance
 tensorflow
-talib
+pandas_ta
